@@ -1,0 +1,38 @@
+.mealDetails {
+    padding: 20px;
+    margin: auto;
+    max-width: 800px;
+    background: #f8f8f8;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.backButton {
+    background-color: #00796b; 
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+.mealTitle {
+    color: #004d40; 
+    text-align: center;
+}
+
+.mealImage {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 20px auto;
+    border-radius: 8px;
+}
+
+.instructions {
+    margin-top: 20px;
+}
+
+.ingredientsList {
+    list-style-type: none;
+    padding: 0;
+}

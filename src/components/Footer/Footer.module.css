@@ -1,0 +1,15 @@
+
+.footer {
+    background-color: #004d40;
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: aliceblue;
+    margin-top: 10px;
+}
+
+.contactInfo ul {
+    list-style: none;
+    padding: 0;
+}
